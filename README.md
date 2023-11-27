@@ -12,7 +12,7 @@
 ## TIL
 ### 2023년
 
-* [2023.12]()
+* [2023.12](https://github.com/ahyeon-B/TIL/tree/main/Today%20I%20Learned)
 
 ### 2024년
 
