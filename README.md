@@ -10,9 +10,6 @@
 * contributions를 초록색으로 채우는 것에 집착하지 않는다.
 
 ## TIL
-### 2023년
-
-* [2023.12](https://github.com/ahyeon-B/TIL/tree/main/Today%20I%20Learned)
 
 ### 2024년
 
